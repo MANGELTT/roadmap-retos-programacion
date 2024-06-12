@@ -12,7 +12,7 @@ if (!(A > B)){
 }
 else{
     console.log("No Factos");
-}
+} 
 
 console.log(B>A | B<A ? "Joto" : "Guapo");
 

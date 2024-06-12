@@ -13,6 +13,6 @@ let numeroGrande = 1234567890123456789n
 let texto = "Hola mundo"
 let booleano = true
 let indefinido;
-
+ 
 
 console.log("¡Hola, Javascript!")
